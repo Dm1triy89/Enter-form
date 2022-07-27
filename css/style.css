@@ -1,0 +1,117 @@
+
+body{
+    /* background-color: #F69430; */
+    
+    margin: auto;
+    width: 670px;
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+.main{
+    position: absolute;
+    top:    70px ;
+    left: 510px;
+    width: 490px;
+    height: 490px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;    
+    background-color:#E1E1E1;
+    
+}
+.img-main{
+    position:static;
+}
+.h-main{
+    text-align: center;
+}
+.main-p{
+    
+    left: 30.89%;
+    right: 40.61%;
+    top: 22.84%;
+    bottom: 70.11%;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34.6671px;
+    line-height: 47px;
+
+    color: #30333F;
+}
+.button1{
+    text-align: center;
+    margin: 10px;
+}
+.button3{
+    margin-top: 15px;
+    width: 185px;
+    height: 60px;
+    background-color: #e65848;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27.4531px;
+    line-height: 37px;
+    color: #FFFFFF;
+
+}
+.email{
+    width: 320px;
+    height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    color: #C4C2C1;
+}
+.password{
+    width: 320px;
+    height: 58px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+
+    color: #C4C2C1;
+}
+.checbox{
+    margin-top: 30px;
+    flex-direction: row;
+    justify-content: space-between;
+   
+
+}
+.b{
+    text-align: center;
+    float: left;
+    margin-left: 35px;
+    padding-bottom: 70px;
+}
+.p{
+    
+color:white ;
+}
+.a1{
+    color: white;
+    
+}
+.a2{
+    color: black;
+    text-decoration: none;
+}
+.img{
+    position: relative;
+    left: 5px;
+    top:26px;
+}
+.img1{
+    position: relative;
+    left: 5px;
+    top: 25px;
+}
+.p-2{
+    color: black;
+}
